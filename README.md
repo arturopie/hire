@@ -1,6 +1,6 @@
 # Hire
 
-Utility to help you setup an environment to review code by a candidate
+Utility to help you setup an environment to review code from a candidate
 
 ## Usage
 
