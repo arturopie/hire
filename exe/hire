@@ -3,4 +3,4 @@
 require "bundler/setup"
 require "hire"
 
-puts "Hello world"
+Hire.start_review
